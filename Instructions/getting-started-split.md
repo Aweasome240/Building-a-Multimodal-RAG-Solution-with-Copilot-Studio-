@@ -72,13 +72,13 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 ## Lab Guide Zoom In/Zoom Out
 
-To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
+To adjust the zoom level for the environment page, click the **A↕: 100%** icon located next to the timer in the lab environment.
 
 ![](../media/21052025(16).png)
 
 ## Let's Get Started with Azure Portal
 
-1. In the JumpVM, click on **Azure portal** shortcut of Microsoft Edge browser which is created on desktop.
+1. In the JumpVM, click on the **Azure portal** shortcut of Microsoft Edge browser, which is created on desktop.
 
    ![](../media/gs-8.png)
 
