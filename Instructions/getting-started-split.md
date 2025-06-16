@@ -44,7 +44,7 @@ The architecture for this lab involves several key components:
 
 Welcome to Developing a Multimodal RAG Solution Hands-On-Lab! We've prepared a seamless environment for you to explore and learn. Let's begin by making the most of this experience.
 
->**Note:** If a PowerShell window appears once the environment is active, please don't close it. Minimize it instead of closing it and proceed with the tasks.
+>**Note:** If a PowerShell window appears once the environment is active, please don't close it. Minimise it instead of closing it, and proceed with the tasks.
 
 ## Accessing Your Lab Environment
 
@@ -72,13 +72,13 @@ Feel free to start, stop, or restart your virtual machine as needed from the **R
 
 ## Lab Guide Zoom In/Zoom Out
 
-To adjust the zoom level for the environment page, click the **A↕ : 100%** icon located next to the timer in the lab environment.
+To adjust the zoom level for the environment page, click the **A↕: 100%** icon located next to the timer in the lab environment.
 
 ![](../media/21052025(16).png)
 
 ## Let's Get Started with Azure Portal
 
-1. In the JumpVM, click on **Azure portal** shortcut of Microsoft Edge browser which is created on desktop.
+1. In the JumpVM, click on **Azure portal** shortcut of Microsoft Edge browser, which is created on the desktop.
 
    ![](../media/gs-8.png)
 
